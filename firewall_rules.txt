@@ -1,0 +1,5 @@
+Grundregeln:
+IPs pauschal bannen mit:
+VPN
+IPs aus nicht DACH Region
+Hosting bannen

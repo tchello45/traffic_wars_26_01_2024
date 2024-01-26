@@ -1,0 +1,10 @@
+{"ip":"10.10.12.34",
+"continentCode":"EU",
+"countryCode":"DE",
+"country":"Germany",
+"city":"Hamburg",
+"latitude":53.55073,
+"longitude":9.99302,
+"asn":{"asn":"AS3209","name":"Vodafone GmbH","type":"isp"},
+"company":{"name":"Vodafone GmbH","type":"isp"},
+"privacy":{"vpn":false,"relay":false,"tor":false,"service":""}}

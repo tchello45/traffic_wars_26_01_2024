@@ -1,0 +1,8 @@
+{
+    "valid_country_codes": ["DE", "AU", "CH"],
+    "optional_valid_continent_codes": ["EU"],
+    "ban_tor": true,
+    "ban_hosting": true,
+    "ban_relay": false,
+    "ban_vpn": true
+}
